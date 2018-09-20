@@ -1,0 +1,5 @@
+- Update readme instructions
+- Update or rename `bin/cli.ts`
+- Add config to `.env`
+- Update `package.json` (package name, scripts)
+- Actually implement something
